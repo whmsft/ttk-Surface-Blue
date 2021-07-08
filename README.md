@@ -21,6 +21,15 @@ source "Surface-blue.tcl"
 ttk::style theme use surface-blue
 ```
 
+EXTRA ELEMENT:
+- Switch:
+```python3
+switch = ttk.Checkbutton(root, text='Switch', style='Switch', variable=var)
+```
+image:
+![image](https://user-images.githubusercontent.com/72214351/124929443-23407680-e01e-11eb-847f-04e10b5f2c70.png)
+
+
 Credits:
 - me (for the whole theme)
 - Paint.net (for the software on which the images are designed.)
