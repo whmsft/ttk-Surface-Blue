@@ -23,7 +23,7 @@ ttk::style theme use surface-blue
 
 Credits:
 - me (for the whole theme)
-- Paint.net (for the software on which the icons are designed
-- rdbende (for the Azure-ttk-Theme on which this is theme is based on.
-- Microsoft (for Windows and Metro UI)
-- Advanced Installer (for the idea which made me make this theme)
+- Paint.net (for the software on which the images are designed.)
+- rdbende (for the Azure-ttk-Theme on which this is theme is based on.)
+- Microsoft (for Windows and Metro UI.)
+- Advanced Installer (for the idea which made me make this theme.)
